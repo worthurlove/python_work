@@ -1,4 +1,4 @@
-#Calcullate the volume and surface of a sphere frome its radius
+#Function:Calcullate the volume and surface of a sphere frome its radius
 #Author:worthurlove
 #Date:2018.9.20
 
