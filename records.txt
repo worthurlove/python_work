@@ -1,0 +1,9 @@
+student1    100 400
+student2    123 456
+student3    213 777
+student4    12  46
+student5    27  33
+student6    2   8
+student7    3   9
+student8    4   10
+student9    5   12
