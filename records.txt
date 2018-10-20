@@ -1,6 +1,0 @@
-student1    127 228
-student2    100 400
-student3    18  41.5
-student4    48.5    155
-student5    37  125.33
-student6    1   4
